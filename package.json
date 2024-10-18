@@ -29,8 +29,5 @@
     "puppeteer": "^23.5.1",
     "twilio": "^5.3.3",
     "wbm": "^1.1.16"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.4"
   }
 }
